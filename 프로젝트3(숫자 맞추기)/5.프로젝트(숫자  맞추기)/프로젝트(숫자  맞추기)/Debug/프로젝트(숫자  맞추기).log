@@ -1,0 +1,4 @@
+﻿  프로젝트(숫자 맞추기).c
+c:\users\claud\source\repos\프로젝트(숫자  맞추기)\프로젝트(숫자  맞추기)\프로젝트(숫자 맞추기).c(6): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\claud\source\repos\프로젝트(숫자  맞추기)\프로젝트(숫자  맞추기)\프로젝트(숫자 맞추기).c(7): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  프로젝트(숫자  맞추기).vcxproj -> c:\users\claud\source\repos\프로젝트(숫자  맞추기)\Debug\프로젝트(숫자  맞추기).exe
