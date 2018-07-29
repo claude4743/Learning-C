@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "프로젝트5(비밀번호 마스터)", "프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터).vcxproj", "{29B7F63A-9723-4AE1-862D-804E271E753F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Debug|x64.ActiveCfg = Debug|x64
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Debug|x64.Build.0 = Debug|x64
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Debug|x86.Build.0 = Debug|Win32
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Release|x64.ActiveCfg = Release|x64
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Release|x64.Build.0 = Release|x64
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Release|x86.ActiveCfg = Release|Win32
+		{29B7F63A-9723-4AE1-862D-804E271E753F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669077F7-EC0B-4795-90CD-6FD65BFA9A66}
+	EndGlobalSection
+EndGlobal
