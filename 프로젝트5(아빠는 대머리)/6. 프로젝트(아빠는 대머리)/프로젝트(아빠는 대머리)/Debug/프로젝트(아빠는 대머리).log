@@ -1,0 +1,4 @@
+﻿  프로젝트(아빠는 대머리).c
+c:\users\claud\source\repos\프로젝트(아빠는 대머리)\프로젝트(아빠는 대머리)\프로젝트(아빠는 대머리).c(5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\claud\source\repos\프로젝트(아빠는 대머리)\프로젝트(아빠는 대머리)\프로젝트(아빠는 대머리).c(8): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  프로젝트(아빠는 대머리).vcxproj -> C:\Users\claud\Source\Repos\프로젝트(아빠는 대머리)\Debug\프로젝트(아빠는 대머리).exe

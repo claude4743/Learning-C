@@ -1,5 +1,0 @@
-﻿  프로젝트5(비밀번호 마스터).c
-c:\users\claud\source\repos\프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터).c(11): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\users\claud\source\repos\프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터).c(26): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\users\claud\source\repos\프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터)\프로젝트5(비밀번호 마스터).c(45): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  프로젝트5(비밀번호 마스터).vcxproj -> C:\Users\claud\Source\Repos\프로젝트5(비밀번호 마스터)\Debug\프로젝트5(비밀번호 마스터).exe
