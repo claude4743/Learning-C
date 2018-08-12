@@ -1,0 +1,19 @@
+﻿  스파이(또 다른 포인터)의 등장.c
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(13): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(14): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(21): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(24): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(27): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(32): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(36): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(40): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(48): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(54): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(58): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(62): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(63): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(64): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(67): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\claud\source\repos\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장\스파이(또 다른 포인터)의 등장.c(68): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+  스파이(또 다른 포인터)의 등장.vcxproj -> C:\Users\claud\Source\Repos\스파이(또 다른 포인터)의 등장\Debug\스파이(또 다른 포인터)의 등장.exe

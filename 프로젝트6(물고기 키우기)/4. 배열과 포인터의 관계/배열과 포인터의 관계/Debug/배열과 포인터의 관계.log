@@ -1,0 +1,4 @@
+﻿  배열과 포인터의 관계.c
+c:\users\claud\source\repos\배열과 포인터의 관계\배열과 포인터의 관계\배열과 포인터의 관계.c(31): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\claud\source\repos\배열과 포인터의 관계\배열과 포인터의 관계\배열과 포인터의 관계.c(32): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  배열과 포인터의 관계.vcxproj -> C:\Users\claud\Source\Repos\배열과 포인터의 관계\Debug\배열과 포인터의 관계.exe
